@@ -1,6 +1,5 @@
 # Crawler-Web
- The tool developed for Crawler Web
-Crawler Web by Nofet_Malca 
+ The tool developed for Crawler Web by Nofet_Malca 
 ===================
 The tool developed will accept a search term and then produce a file with information about the
 movies with titles containing the search term.
@@ -88,3 +87,4 @@ In creating the database of relevant pages for each movie, he showed me less tha
 Let's say for the movie - "Star Trek" has 70 so-called suitable movies on the list.
 So to me he puts out only 64 relevant pages.
 See Appendix
+In addition, I hava a few more minor bug fixes that I need to fix.
