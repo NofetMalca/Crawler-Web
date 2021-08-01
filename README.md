@@ -81,10 +81,3 @@ https://www.geeksforgeeks.org/
 3.
 Just Google the error you made...
 
-*********ERRORProgram- Program glitch, I will fix later********************
-I have a problem, due to lack of time I did not have time to take care of:
-In creating the database of relevant pages for each movie, he showed me less than what exists on the site.
-Let's say for the movie - "Star Trek" has 70 so-called suitable movies on the list.
-So to me he puts out only 64 relevant pages.
-See Appendix
-In addition, I hava a few more minor bug fixes that I need to fix.
